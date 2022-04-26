@@ -119,8 +119,6 @@ const Cart = () => {
   const cart = useSelector((state) => state.cart);
   const history = useHistory();
 
-  
-
   return (
     <Container>
       <Navbar />
